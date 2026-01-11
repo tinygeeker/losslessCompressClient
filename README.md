@@ -42,8 +42,16 @@
 
 ## 安装依赖 📦
 
+使用pip安装：
+
 ```bash
 pip install pyqt5 pillow
+```
+
+或者使用requirements.txt文件：
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## 运行应用 🚀
