@@ -1,3 +1,4 @@
 # 项目依赖
 pyqt5
 pillow
+pypdf2
